@@ -8,11 +8,15 @@ My name is **Felix**. I'm a passion and vibrant young man living and working fro
 When I'm not writing code and listening to music, you'll much likely find me writing content for my blog site, and other platforms like [**Medium**](https://ofelix03.medium.com/). [**Dev.to**](https://dev.to/ofelix03).
 
 ## Languages & Tools
-* Python3
+* Python
 * Javascript 
 * Typescript
 * HTML5 and CSS
 * PostgreSQL
 * Docker
+
+## Blogging
+* [Medium](ofelix03.medium.com)
+* [Dev.to](https://dev.to/ofelix03)
 
 
