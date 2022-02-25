@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi, and welcome 👋
 
-Welcome, and feel at home 
-
+Feel free to look around and hopefully you find yourself something helpful.
 
 ## Who am I ?
 I am a young vibrant young man living in the Ghana, on the Western part of the African continent.
