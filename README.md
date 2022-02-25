@@ -8,7 +8,7 @@ On a regular day, you will catch me witwh my head buried in my latop, coding awa
 
 When I'm not writing code and listening to music, you'll much likely find me writing content for my blog site, and other platforms like [**Medium**](https://ofelix03.medium.com/). [**Dev.to**](https://dev.to/ofelix03).
 
-## Lanuages & Tools
+## Languages & Tools
 * Python 
 * Javascript 
 * Typescript
