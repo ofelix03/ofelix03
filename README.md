@@ -1,8 +1,8 @@
 # Hi, and welcome 👋
 
-Feel free to look around and hopefully you find yourself something helpful.
+It' nice to have you here, please feel at home to look around and hopefully you'll find yourself something useful.
 
-## Who am I ?
+## My name is **Felix Otoo**
 I am a young vibrant young man living in the Ghana, on the Western part of the African continent.
 A on a regular day, you will catch me writing lines of code to bring to live ideas and concepts.
 I love technology and spend most of my time, working on software solutions that drives values and changes the way people do things.
