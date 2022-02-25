@@ -2,13 +2,18 @@
 
 It' nice to have you here, please feel at home to look around and hopefully you'll find yourself something useful.
 
-## My name is **Felix Otoo**
-I am a young vibrant young man living in the Ghana, on the Western part of the African continent.
-A on a regular day, you will catch me writing lines of code to bring to live ideas and concepts.
-I love technology and spend most of my time, working on software solutions that drives values and changes the way people do things.
+## About Me
+My name is **Felix**. I'm a passion and vibrant young man living in Ghana, on the Western part of the African continent.
+On a regular day, you will catch me witwh my head buried in my latop, coding away to some nice music, turning abstract ideas and concepts into concret solutions with each line of code. 
 
-I love music too, and my favourit genres are LoFi Music, Contemporary Gospel, and some cherry-picked Pop.
+When I'm not writing code and listening to music, you'll much likely find me writing content for my blog site, and other platforms like [**Medium**](https://ofelix03.medium.com/). [**Dev.to**](https://dev.to/ofelix03).
 
-On the occassions, I'm not building software, or listneing to music, you will catch me writing articles for my personal blog and other online platforms like **Medium**, **Dev.to**.
+## Lanuages & Tools
+* Python 
+* Javascript 
+* Typescript
+* HTML5 and CSS
+* PostgreSQL
+* Docker
 
 
