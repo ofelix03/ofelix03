@@ -1,6 +1,6 @@
 # Hi, and welcome 👋
 
-It' nice to have you here, please feel at home to look around and hopefully you'll find yourself something useful.
+It's nice to have you here, please feel at home to look around and hopefully you'll find yourself something useful.
 
 ## About Me
 My name is **Felix**. I'm a passion and vibrant young man living in Ghana, on the Western part of the African continent.
