@@ -15,6 +15,8 @@ When I'm not writing code and simultaneously listening to music, you'll very lik
 * PostgreSQL
 * Docker
 * Git
+* Angular
+* Kafka, ksqlDB
 
 ## Blogging
 * [Medium](ofelix03.medium.com)
