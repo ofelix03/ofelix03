@@ -1,22 +1,40 @@
 # Hi 👋
 
-Welcome! Take some time to look around.
+Welcome to my little corner on the internet space. Feel free to look around and hopefully you find something you like.
 
 ## About Me
-My name is **Felix**. I'm a passionate Software Engineer living and working from Ghana. On a regular day, you will catch me with my head buried in my latop, coding away to some nice mid-tempo music, translating abstract ideas and concepts into concret solutions with code. 
+I am a passionate, collaborative and results-oriented Software Engineer. I have 8 years of hands-on experience building Odoo ERP solutions, web applications, and distributed systems. My experience covers the entire software development lifecycle.
 
-When I'm not writing code and simultaneously listening to music, you'll very likely find me publishing content my blog site, and other platforms like [**Medium**](https://ofelix03.medium.com/). [**Dev.to**](https://dev.to/ofelix03).
+When I'm not writing code and listening to music, you'll likely catch me publishing content on the blogging platform [**Medium**](https://ofelix03.medium.com/).
 
-## Languages & Tools
-* Python
+## Skills & Tools
+**Web**
 * Javascript 
 * Typescript
 * HTML5 and CSS
+* Angular
+* CSS & SCSS
+
+**Backend**
+* Python
+* Flask
+* Fast API
 * PostgreSQL
+
+**Data Engineering**
+* Kafka
+* ksqlDB
+
+**Other Tools**
 * Docker
 * Git
-* Angular
-* Kafka, ksqlDB
+* Linux
+* Visual Studio Code
+* Pycharm
+
+**Design Principles & Patterns**
+* OOP
+* Microservices
 
 ## Blogging
 * [Medium](ofelix03.medium.com)
