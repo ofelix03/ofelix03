@@ -1,4 +1,4 @@
-# Hi 👋
+s# Hi 👋
 
 Welcome to my little corner on the internet space. Feel free to look around and hopefully you find something you like.
 
@@ -16,7 +16,7 @@ Javascript | Typescript | HTML5 | CSS & SCSS | Angular
 
 Python | Flask | Fast API | PostgreSQL | Odoo ERP | QWeb 
 
-**Data Engineering & Analysi**
+**Data Engineering & Analysis**
 
 Kafka | ksqlDB | Airflow | Pentaho BI 
 
