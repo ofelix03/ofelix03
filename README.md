@@ -7,7 +7,7 @@ I am a passionate, collaborative and results-oriented Software Engineer. I have 
 
 When I'm not writing code and listening to music, you'll likely catch me publishing content on the blogging platform [**Medium**](https://ofelix03.medium.com/).
 
-## Skills & Tools
+## Experience
 **Web**
 
 Javascript | Typescript | HTML5 | CSS & SCSS | Angular
