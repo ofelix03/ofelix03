@@ -10,7 +10,7 @@ When I'm not writing code and listening to music, you'll likely catch me publish
 ## Experience
 **Web**
 
-Javascript | Typescript | HTML5 | CSS & SCSS | Angular | Redux | NgRx
+Javascript (ES6 & ES5) | Typescript | HTML5 | CSS & SCSS | Angular | Redux | NgRx
 
 **Backend**
 
