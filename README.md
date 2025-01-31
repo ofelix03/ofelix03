@@ -25,6 +25,7 @@ Kafka | ksqlDB | Airflow | Pentaho BI
 Docker | Git | Linux | VSCode | Pycharm
 
 **Design Principles & Patterns**
+
 OOP | Microservices | REST 
 
 ## Blogging
