@@ -9,31 +9,26 @@ When I'm not writing code and listening to music, you'll likely catch me publish
 
 ## Skills & Tools
 **Web**
+
 Javascript | Typescript | HTML5 | CSS & SCSS | Angular
 
 **Backend**
-* Python
-* Flask
-* Fast API
-* PostgreSQL
 
-**Data Engineering**
-* Kafka
-* ksqlDB
+Python | Flask | Fast API | PostgreSQL | Odoo ERP | QWeb 
+
+**Data Engineering & Analysi**
+
+Kafka | ksqlDB | Airflow | Pentaho BI 
 
 **Other Tools**
-* Docker
-* Git
-* Linux
-* Visual Studio Code
-* Pycharm
+
+Docker | Git | Linux | VSCode | Pycharm
 
 **Design Principles & Patterns**
-* OOP
-* Microservices
+OOP | Microservices | REST 
 
 ## Blogging
-* [Medium](ofelix03.medium.com)
-* [Dev.to](https://dev.to/ofelix03)
+
+[Medium](ofelix03.medium.com) | [Dev.to](https://dev.to/ofelix03)
 
 
