@@ -1,4 +1,4 @@
-s# Hi 👋
+# Hi 👋
 
 Welcome to my little corner on the internet space. Feel free to look around and hopefully you find something you like.
 
