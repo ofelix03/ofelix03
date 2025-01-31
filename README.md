@@ -9,11 +9,7 @@ When I'm not writing code and listening to music, you'll likely catch me publish
 
 ## Skills & Tools
 **Web**
-* Javascript 
-* Typescript
-* HTML5 and CSS
-* Angular
-* CSS & SCSS
+Javascript | Typescript | HTML5 | CSS & SCSS | Angular
 
 **Backend**
 * Python
