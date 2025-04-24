@@ -8,13 +8,13 @@ I am a passionate, collaborative and results-oriented Software Engineer. I have 
 When I'm not writing code and listening to music, you'll likely catch me publishing content on the blogging platform [**Medium**](https://ofelix03.medium.com/).
 
 ## Experience
-**Web**
+**Web: Frontend**
 
 Javascript (ES6 & ES5) | Typescript | HTML5 | CSS & SCSS | Angular | Redux | NgRx
 
-**Backend**
+**Web: Backend**
 
-Python | Flask | Fast API | PostgreSQL | Odoo ERP | QWeb 
+Python | Flask | Fast API | PostgreSQL | Odoo ERP | Odoo QWeb | Odoo ORM | Odoo OWL 
 
 **Data Engineering & Analysis**
 
